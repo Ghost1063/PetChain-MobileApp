@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-1182-mobile-add-storage-usage-and-cache-cleanup",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-1182-mobile-add-storage-usage-and-cache-cleanup": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-1182-mobile-add-storage-usage-and-cache-cleanup",
+    "origin"
+  ]
+}
